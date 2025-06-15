@@ -3,3 +3,4 @@ venv/
 *.db
 archived_receipts/
 source_receipts/
+/frames/.ipynb_checkpoints
